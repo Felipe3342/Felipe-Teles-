@@ -4,6 +4,7 @@
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
+    width: 16%;
 }
 
 .section1{
