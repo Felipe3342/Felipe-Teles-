@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula Programacao</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <img src="jujutsu.jpg" alt="Jujutsu01"
+        <h1 class="cabecalho-titulo">Jujutsu Kaisen</h1>
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-item">Grau Especial</li>
+            <li class="cabecalho-item">Os Mais Fortes</li>
+        </ul>
+    </header>
+    <section class="section1">
+        <img src="download.jpeg" alt="sukuna">
+        <h2>King of The Curses</h2>
+    </section>
+    <section class="section2">
+        <img src="download (2).jpeg" alt="Gojo">
+        <h2>O Honrado</h2>
+    </section>
+
+</body>
+<footer class="rodepe">
+    <img src="download (3).jpeg" alt="Shibuya">
+    <a href="https://www.japan-guide.com/e/e3007.html"
+        <p>Shibuya Toquio</p>
+    </a>
+</footer>
+
+
+</html>
