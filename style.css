@@ -1,26 +1,26 @@
-.cabecalho{
-    background-image: linear-gradient(black,rgb(231, 9, 9));
+.cabecalho {
+    background-image: linear-gradient(black, rgb(231, 9, 9));
     color: rgb(255, 255, 255);
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
 }
 
-.section1{
+.section1 {
     background-color: rgb(231, 9, 9);
     padding: 100px;
 }
 
-.section2{
+.section2 {
     background-color: aqua;
     padding: 100px;
 }
 
-.cabecalho image{
+.imagem-cabecalho {
     width: 16%;
 }
 
-.rodepe{
+.rodepe {
     background-color: rgb(25, 25, 135);
     color: rgb(255, 255, 255);
     padding: 50px;
